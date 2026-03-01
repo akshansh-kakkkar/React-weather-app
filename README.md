@@ -28,4 +28,4 @@
 ---
 #### [Click to view the demo](https://react-weather-app-rho-fawn.vercel.app/)
 
-#### [Click to see the design file](https://www.figma.com/design/oF5pIlZ8pkN7lTl1oDrk3w/Weather-app-design?node-id=0-1&t=Q5lKiE6QhKZWyqaO-1)
+#### [Click to view the design file](https://www.figma.com/design/oF5pIlZ8pkN7lTl1oDrk3w/Weather-app-design?node-id=0-1&t=Q5lKiE6QhKZWyqaO-1)
