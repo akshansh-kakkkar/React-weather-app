@@ -1,16 +1,30 @@
-# React + Vite
+# CLIMORA
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### I made `CLIMORA` an API based weather app which fetches the weather of the place you want and give you the information about it. I have also made custom UI on figma if you want to view the file you can refer to the link section.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+- `React`
+- `TailwindCSS`
+- `Figma`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Credits
+
+- `Open weather`
+
+---
+
+## Links
+
+### Deploy Link -
+
+[Click to view the demo](https://react-weather-app-rho-fawn.vercel.app/)
+[Click to see the design file](https://www.figma.com/design/oF5pIlZ8pkN7lTl1oDrk3w/Weather-app-design?node-id=0-1&t=Q5lKiE6QhKZWyqaO-1)
