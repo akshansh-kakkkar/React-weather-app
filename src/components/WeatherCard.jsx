@@ -79,7 +79,7 @@ const WeatherCard = () => {
         <div className="relative w-full sm:w-60 max-w-xs">
           <div>
             <img
-              src="location.svg"
+              src="/location.svg"
               alt="location"
               className="w-6 h-6 sm:w-7 sm:h-7 absolute left-2 sm:left-1 top-1/2 -translate-y-1/2 translate-x-1.8 pointer-events-none"
             />
