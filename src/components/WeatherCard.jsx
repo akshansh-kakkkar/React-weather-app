@@ -84,7 +84,7 @@ const WeatherCard = () => {
               className="w-6 h-6 sm:w-7 sm:h-7 absolute left-2 sm:left-1 top-1/2 -translate-y-1/2 translate-x-1.8 pointer-events-none"
             />
             <input
-              className="border-1 border-white text-gray-300 p-3 w-full placeholder:text-right text-center rounded-xl outline-none text-sm sm:text-base"
+              className="border-1 border-white text-gray-300 p-3 w-full placeholder:text-center md:placeholder:text-right text-center rounded-xl outline-none text-sm sm:text-base"
               placeholder="Enter place (e.g. London)"
               type="text"
               onChange={(e) => {
