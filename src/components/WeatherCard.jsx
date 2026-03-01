@@ -74,7 +74,7 @@ const WeatherCard = () => {
     ? iconMap[weather.weather[0].icon] || "sun.svg"
     : null;
   return (
-    <div className="bg-radial p-4 sm:p-6 md:p-8 rounded-2xl sm:rounded-3xl md:rounded-4xl h-[85vh] w-[95vw] sm:w-[90vw] md:w-[85vw] lg:w-[80vw] mx-auto from-[#262626] to-[#0C0C0C] flex flex-col overflow-hidden">
+    <div className="bg-radial p-4 sm:p-6 md:p-8 rounded-2xl sm:rounded-3xl md:rounded-4xl h-[75vh] sm:h-[85vh] w-full sm:w-[90vw] md:w-[85vw] lg:w-[80vw] mx-auto from-[#262626] to-[#0C0C0C] flex flex-col overflow-hidden">
       <div className="flex items-center flex-col sm:flex-row justify-center gap-3 sm:gap-4 outline-none mt-8 sm:mt-12 md:mt-15 flex-shrink-0">
         <div className="relative w-full sm:w-60 max-w-xs">
           <div>
